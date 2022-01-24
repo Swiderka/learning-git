@@ -1,5 +1,6 @@
 print("Hello Asia")
 print ("Jak się masz?")
+print("To jest zadanie rozwiazane")
 #ZADANIE 2
 numbers=(0,100)
 cube_list=[]
