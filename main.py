@@ -15,3 +15,4 @@ print()
 
 cube_list= [number**3 for number in range (0,100) if number % 5 == 0]
 print(cube_list)
+print("jest bardzo dobrze")
