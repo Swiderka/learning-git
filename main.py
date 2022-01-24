@@ -1,4 +1,4 @@
-
+print("Hello Asia")
 #ZADANIE 2
 numbers=(0,100)
 cube_list=[]
